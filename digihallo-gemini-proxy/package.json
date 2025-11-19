@@ -1,0 +1,13 @@
+{
+  "name": "digihallo-gemini-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "netlify dev",
+    "build": "echo 'No build step'",
+    "test": "echo 'no tests'"
+  },
+  "dependencies": {
+    "node-fetch": "^3.4.0"
+  }
+}
